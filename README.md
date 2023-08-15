@@ -1,4 +1,5 @@
 # Blog
+Made using Javascript, EJS, Node.js, Express, Lodash.
 ## Home Page
 ![Alt text](./github_images/home_page.png)
 ## Compose Post Page
